@@ -1,6 +1,6 @@
 # Apple Store - Project
 
-## 📋 Mục lục
+## Mục lục :
 1. [Giới thiệu project](#giới-thiệu-project)
 2. [Cấu trúc-project](#cấu-trúc-project)
 3. [Tài khoản đăng nhập](#tài-khoản-đăng-nhập)
