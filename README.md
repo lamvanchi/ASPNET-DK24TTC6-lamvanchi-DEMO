@@ -65,7 +65,7 @@ AppleStoreWeb/
 - Hiển thị 8 sản phẩm nổi bật
 - Navigation menu
 - Banner giới thiệu
-########## 2. Danh sách sản phẩm (`/Products`)
+2. Danh sách sản phẩm (`/Products`)
 - Hiển thị tất cả sản phẩm Apple
 - **Bộ lọc nâng cao:**
   - Theo danh mục (iPhone, iPad, Mac)
@@ -74,3 +74,19 @@ AppleStoreWeb/
   - Theo dung lượng lưu trữ
   - Theo màu sắc
 - Tìm kiếm AJAX
+3. Chi tiết sản phẩm (`/Products/Details/{id}`)
+- Thông tin chi tiết sản phẩm
+- Hình ảnh, thông số kỹ thuật
+- Lựa chọn dung lượng và màu sắc
+- Thêm vào giỏ hàng
+
+4. Giỏ hàng (`/Cart`)
+- Hiển thị sản phẩm đã chọn
+- Cập nhật số lượng
+- Xóa sản phẩm
+- Tính tổng tiền tự động
+
+5. Đăng nhập/Đăng ký (`/Account`)
+- **Login:** `/Account/Login`
+- **Register:** `/Account/Register`
+- **Logout:** `/Account/Logout`
