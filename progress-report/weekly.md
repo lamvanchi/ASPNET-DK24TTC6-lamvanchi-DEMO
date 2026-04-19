@@ -40,3 +40,28 @@
 
 * Kiểm tra lại cấu hình connection string
 * Tham khảo tài liệu và sửa lỗi
+---
+
+### Tuần 2: Xây dựng chức năng cơ bản
+
+**Công việc đã thực hiện:**
+
+* Xây dựng trang chủ
+* Hiển thị danh sách sản phẩm
+* Xây dựng trang chi tiết sản phẩm
+* Thiết kế giao diện bằng Bootstrap
+
+**Kết quả đạt được:**
+
+* Website hiển thị sản phẩm đầy đủ
+* Giao diện cơ bản hoàn chỉnh
+
+**Khó khăn:**
+
+* Lỗi bố cục giao diện
+* Chưa tối ưu hiển thị trên nhiều thiết bị
+
+**Hướng giải quyết:**
+
+* Điều chỉnh CSS và sử dụng grid system của Bootstrap
+
