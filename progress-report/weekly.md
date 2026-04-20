@@ -64,4 +64,29 @@
 **Hướng giải quyết:**
 
 * Điều chỉnh CSS và sử dụng grid system của Bootstrap
+---
+
+### Tuần 3: Chức năng đăng nhập và giỏ hàng
+
+**Công việc đã thực hiện:**
+
+* Tích hợp ASP.NET Identity
+* Xây dựng chức năng đăng ký, đăng nhập
+* Xây dựng giỏ hàng
+* Thêm, xóa, cập nhật số lượng sản phẩm
+
+**Kết quả đạt được:**
+
+* Người dùng có thể đăng nhập
+* Giỏ hàng hoạt động đúng chức năng
+
+**Khó khăn:**
+
+* Lỗi session giỏ hàng
+* Xử lý logic chưa tối ưu
+
+**Hướng giải quyết:**
+
+* Kiểm tra session và debug từng bước
+
 
