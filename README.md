@@ -88,4 +88,19 @@ AppleStoreWeb/
 - Cập nhật số lượng
 - Xóa sản phẩm
 - Tính tổng tiền tự động
+### 5. Đăng nhập/Đăng ký (`/Account`)
+- **Login:** `/Account/Login`
+- **Register:** `/Account/Register`
+- **Logout:** `/Account/Logout`
+
+### 6. Đơn hàng (`/Orders`)
+- **Danh sách:** `/Orders` - Lịch sử đơn hàng
+- **Chi tiết:** `/Orders/Details/{id}` - Thông tin chi tiết
+- **Thanh toán:** `/Orders/Checkout` - Đặt hàng
+
+### 7. Quản trị Admin (`/Admin`)
+- **Dashboard:** `/Admin` - Thống kê tổng quan
+- **Sản phẩm:** `/Admin/Products` - Quản lý sản phẩm
+- **Đơn hàng:** `/Admin/Orders` - Quản lý đơn hàng
+- **Khách hàng:** `/Admin/Customers` - Quản lý người dùng
 
