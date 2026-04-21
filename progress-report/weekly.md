@@ -88,5 +88,76 @@
 **Hướng giải quyết:**
 
 * Kiểm tra session và debug từng bước
+---
+
+### Tuần 4: Đơn hàng và quản trị
+
+**Công việc đã thực hiện:**
+
+* Xây dựng chức năng đặt hàng
+* Lưu dữ liệu đơn hàng
+* Xây dựng trang quản trị
+* Quản lý sản phẩm và đơn hàng
+
+**Kết quả đạt được:**
+
+* Đặt hàng thành công
+* Có thể quản lý dữ liệu từ trang admin
+
+**Khó khăn:**
+
+* Phân quyền người dùng
+* Lỗi hiển thị dữ liệu
+
+**Hướng giải quyết:**
+
+* Sử dụng Role trong Identity
+* Kiểm tra lại truy vấn dữ liệu
+
+---
+
+### Tuần 5: Hoàn thiện và kiểm thử
+
+**Công việc đã thực hiện:**
+
+* Hoàn thiện giao diện
+* Kiểm thử hệ thống
+* Sửa lỗi
+* Cập nhật README.md
+
+**Kết quả đạt được:**
+
+* Hệ thống hoạt động ổn định
+* Hoàn thành gần đầy đủ chức năng
+
+**Khó khăn:**
+
+* Một số lỗi nhỏ về giao diện
+
+**Hướng giải quyết:**
+
+* Kiểm tra và chỉnh sửa lại giao diện
+
+---
+
+## 3. Tổng kết tiến độ
+
+* Mức độ hoàn thành: khoảng 95%
+* Nội dung còn lại: tối ưu giao diện và hoàn thiện báo cáo cuối
+
+---
+
+## 4. Nhận xét
+
+Trong quá trình thực hiện, sinh viên đã nắm được cách xây dựng một website cơ bản bằng ASP.NET Core, cách làm việc với cơ sở dữ liệu và triển khai các chức năng chính của một hệ thống bán hàng. Tuy nhiên, cần cải thiện thêm về giao diện và tối ưu code.
+
+---
+
+## 5. Ghi chú
+
+* Dự án được cập nhật thường xuyên trên GitHub
+* Có commit theo từng giai đoạn thực hiện
+
+---
 
 
