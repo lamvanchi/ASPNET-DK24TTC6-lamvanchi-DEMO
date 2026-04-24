@@ -10,7 +10,7 @@
 * Họ tên: Lâm Văn Chỉ
 * MSSV: 170124701
 * Lớp: DK24TTC6
-* Giảng viên hướng dẫn: ThS. Đoàn Phước Miên
+* Giảng viên hướng dẫn: TS. Đoàn Phước Miên
 
 ---
 
